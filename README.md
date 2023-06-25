@@ -1,3 +1,3 @@
 # Codeforces
-This repository holds solutions for codeforces.
+This repository holds my solutions for codeforces.
 The solutions are all in python
